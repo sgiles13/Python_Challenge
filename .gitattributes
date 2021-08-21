@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/activity_details.csv filter=lfs diff=lfs merge=lfs -text
+data/child_base_data.csv filter=lfs diff=lfs merge=lfs -text
+data/child_demographic_data.csv filter=lfs diff=lfs merge=lfs -text
